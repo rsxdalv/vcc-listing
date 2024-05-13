@@ -16,7 +16,7 @@ to start a new GitHub project based on this template, and follow the directions 
   
 ## Setting up the Automation
 
-You'll need to edit some of the files in this template, starting with [`source.json`](source.json):
+You'll need to edit some of the files in this template, starting with [`source.json`](source.json#L4):
 - Fill out general information about your listing, such as the `name`, `id`, `author`, `description`, etc.
 - Make sure to update the "url" field on line 4, replacing "vrchat-community" with your GitHub username, and "template-package-listing" with your repo name. This is the link that will be used to download your listing once it's published by GitHub. For example, the user "thupper" who made a repo called "thupper-listing" would update the url to "https://thupper.github.io/thupper-listing/index.json".
 - Update the "url" within "infoLink" (on line 11) with the url of this new repo you've created.
